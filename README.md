@@ -3,4 +3,4 @@ Multi-cycle processor implementation. Extremely sloppy! Written in one week(I th
 
 
 [^1]: Sarah Harris and David Harris. 2015. *Digital Design and Computer Architecture: ARM Edition* (1st. ed.). Morgan Kaufmann Publishers Inc., San Francisco, CA, USA.
-[^2]: METU METU METU EE EE Lab Lab.  These are written unintentionally.  
+ 

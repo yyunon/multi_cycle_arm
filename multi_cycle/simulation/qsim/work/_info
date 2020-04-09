@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/yuksel/Desktop/446/lab_4/simulation/qsim
+vshifter
+Z1 !s110 1556472111
+!i10b 1
+!s100 zUVo;Ao6@HlzecGibTedI0
+IjMoFJX58ozbZ4CLODJz510
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1556472110
+8multicycle.vo
+Fmulticycle.vo
+L0 31
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1556472111.000000
+!s107 multicycle.vo|
+!s90 -work|work|multicycle.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+Eshifter_vhd_vec_tst
+w1556472054
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+8sil.vwf.vht
+Fsil.vwf.vht
+l0
+L31
+VU2EX1IJNW2@mcAUPMSKBl0
+!s100 lIj;VfAGS6WRmG6[CK^P73
+OV;C;10.5b;63
+32
+!s110 1556472056
+!i10b 1
+!s108 1556472056.000000
+!s90 -work|work|sil.vwf.vht|
+!s107 sil.vwf.vht|
+!i113 1
+R5
+tExplicit 1 CvgOpt 0
+vshifter_vlg_vec_tst
+R1
+!i10b 1
+!s100 2aYn:6_T=cz9ZMZODCB6L0
+I]ScZRaL0mMdmPW2eDa8]42
+R2
+R0
+w1556472109
+8sil.vwf.vt
+Fsil.vwf.vt
+L0 29
+R3
+r1
+!s85 0
+31
+R4
+!s107 sil.vwf.vt|
+!s90 -work|work|sil.vwf.vt|
+!i113 1
+R5
+R6

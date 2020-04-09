@@ -1,0 +1,30 @@
+module shifter #(parameter W=32) (shift,A,B,out);
+
+input [1:0] shift;
+input [W-1:0] A;
+input [6:0] B;
+output reg [W-1:0] out;
+always @(*)
+	begin 
+		case(shift)
+			2'b00:begin
+						out <= A;
+					end 
+			2'b01:begin
+						if(A[W-1] == 0) begin
+							out <= A >> B;
+						end else begin 
+							out <= $signed(A )>>> B;
+						end
+					end 
+			2'b10:begin
+						out <= A << B;
+					end 
+			2'b11:begin
+						out <= A;
+					end 
+		endcase 
+	
+	end 
+
+endmodule 

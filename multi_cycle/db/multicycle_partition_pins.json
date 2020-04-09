@@ -1,0 +1,157 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ALUFlags[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUFlags[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUFlags[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUFlags[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[7]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[6]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[5]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[4]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[3]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[2]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[1]",
+					"strict" : false
+				},
+				{
+					"name" : "writeback[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUControl[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUSrcB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUSrcB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "AluSrcA",
+					"strict" : false
+				},
+				{
+					"name" : "ALUControl[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUControl[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ResultSrc[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ResultSrc[0]",
+					"strict" : false
+				},
+				{
+					"name" : "enhanced_op[1]",
+					"strict" : false
+				},
+				{
+					"name" : "enhanced_op[0]",
+					"strict" : false
+				},
+				{
+					"name" : "AdrSrc",
+					"strict" : false
+				},
+				{
+					"name" : "RegSrc[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "PCWrite",
+					"strict" : false
+				},
+				{
+					"name" : "RegSrc[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RegWrite",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
